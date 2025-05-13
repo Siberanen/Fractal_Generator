@@ -4,23 +4,7 @@ class ColorPaletteGenerator:
     def __init__(self):
         # Инициализация генератора цветовых палитр
         pass
-
-    def generate_palette(self, colors_count):
-        # Генерация цветовой палитры с заданным количеством цветов
-        pass
-
-    def apply_palette(self, fractal_data, color_palette):
-        # Применение цветовой палитры к фрактальным данным
-        pass
-
-    def apply_palette1(self, fractal_data, color_palette):
-        # Применение цветовой палитры к фрактальным данным
-        pass
-
-    def apply_palette2(self, fractal_data, color_palette):
-        # Применение цветовой палитры к фрактальным данным
-        pass
-
+        
 class NoiseGenerator:
     def __init__(self):
         # Инициализация модуля генерации случайного шума
